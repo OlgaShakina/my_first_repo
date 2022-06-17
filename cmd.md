@@ -14,6 +14,11 @@ cd /folder_name
 '''sh
 ls
 '''
+## Удалить файл
+### MacOs/Linux
+'''sh
+rm имя_файла
+'''
 ## Как выйти из VIM
 '''sh
 Esc
